@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2cfe12c-70de-4c16-8632-1ac52d2dab3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LAB10/Q1/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB10/Q2/Q2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Harshitmaury123&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Harshitmaury123/OOPS_LAB&quot;,
+    &quot;accountId&quot;: &quot;dc75e0c8-012c-4633-8db9-42a814088bb6&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/LAB7/Q3.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/LAB7/q2.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ls8gGXOKHc1qb9asJ26ClS7WdY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayProcessor.executor": "Run",
+    "Application.BasicCalculator.executor": "Run",
+    "Application.Demo.executor": "Run",
+    "Application.DuckingExplicity.executor": "Run",
+    "Application.DuckingImplicity.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ObjectManager.executor": "Run",
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.StudentManagement.executor": "Run",
+    "Application.StudentManagementSystem.executor": "Run",
+    "Application.TextEditor.executor": "Run",
+    "Application.UserDefinedExceptionDemo.executor": "Run",
+    "Application.prac1.executor": "Run",
+    "Application.prac10.executor": "Run",
+    "Application.prac11.executor": "Run",
+    "Application.prac12.executor": "Run",
+    "Application.prac2.executor": "Run",
+    "Application.prac3.executor": "Run",
+    "Application.prac4.executor": "Run",
+    "Application.prac6.executor": "Run",
+    "Application.prac7.executor": "Run",
+    "Application.prac8.executor": "Run",
+    "Application.prac9.executor": "Run",
+    "Application.q2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "new",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/harsh/IdeaProjects/LABOOPS/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="DuckingExplicity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.DuckingExplicity" />
+      <module name="LABOOPS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DuckingExplicity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2cfe12c-70de-4c16-8632-1ac52d2dab3b" name="Changes" comment="" />
+      <created>1725957535896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725957535896</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
